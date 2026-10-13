@@ -9,7 +9,7 @@ A full-stack web application designed to support urban land administration, citi
 ### Application Overview
 
 ![ULMIS Application Overview](docs/screenshot/ulimis-overview.png)
-
+![ULMIS Application Overview](docs/screenshot/admin_dashboard.png)
 _ULMIS application overview._
 
 Additional screenshots can be added as the project develops, including the landing page, authentication pages, citizen dashboard, land requests, infrastructure reports, and officer dashboard.
